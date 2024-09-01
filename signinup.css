@@ -9,7 +9,8 @@
 
 body{
     background-color: #1144eb;
-    background: linear-gradient(to right, #e2e2e2, #c9d6ff);
+    background: url(nittepg.jpg) no-repeat;
+	background-size: cover;
     display: flex;
     align-items: center;
     justify-content: center;
